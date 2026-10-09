@@ -1,0 +1,9 @@
+pandas
+undetected-chromedriver
+selenium
+imgkit
+telebot
+gspread
+oauth2client
+Pillow
+pytesseract
